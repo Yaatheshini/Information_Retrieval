@@ -1,0 +1,13 @@
+.I 1
+.W
+Query testing strategy starts here. This will bug out 
+    because the 2nd index won't have a value.
+.I 2    # This is the error because there is a missing .W  after .I 2
+.I 3
+.W
+This will not run because the previous case doesn't have
+a valid value.
+.I 4    # This is an error
+.I 5 
+.W
+This is not an error but will not be reached 

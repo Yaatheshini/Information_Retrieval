@@ -1,0 +1,10 @@
+.I 1
+.W
+This is the bad document for documents testing.
+.I 2
+.W
+This should still be able to pass.
+.I 2
+.W 
+    This should fail because we already an existing value 
+    for key = 2.
