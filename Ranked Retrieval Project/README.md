@@ -1,4 +1,4 @@
-# Compilation/execution instructions
+# Compilation/execution instructions for the NLTK
 
 ```
 Reading the .ALL collection:
