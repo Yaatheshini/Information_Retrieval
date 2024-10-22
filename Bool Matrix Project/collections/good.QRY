@@ -1,0 +1,20 @@
+.I 1 
+ ( document :and: debug ) :or: drink
+.I 2 
+ :not: water
+.I 3 
+ :not: cmput
+.I 4 
+ ( thi :or: water) 
+.I 5 
+ plenti
+.I 6 
+ ( the :or: thi ) :and: :not: strategi
+.I 7 
+ ( includ :and: :not: plenti)
+.I 8 
+ atleast :or: :not: ( debug :or: cmput :or: good )
+.I 9 
+ water :and: :not: ( the )
+.I 10 
+ ( here :or: document ) :and: good

@@ -1,0 +1,19 @@
+.I 1
+.W
+    This is the good case of the 
+CMPUT 361 assignment 1.
+.I 2
+.W
+Everything here should be good and
+golden.
+.I 3
+.W
+Testing strategies must include plenty
+of debugging.
+.I 4
+.W
+Drinking atleast 1.5L of water in a day
+    is essential.
+.I 5
+.W
+This is the final document. Goodbye!
