@@ -17,5 +17,6 @@ Testing all possible scoring schemes, methods, number of random queries [10, 80]
 # Sources consulted
 
 List all websites/sources consulted.
+
 https://www.geeksforgeeks.org/python-lemmatization-with-nltk/
 https://www.w3schools.com/python/ref_random_choice.asp
